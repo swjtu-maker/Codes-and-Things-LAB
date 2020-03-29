@@ -1,0 +1,283 @@
+########################## hero area ##########################
+hero:
+  title : "代码与实物实验室"
+
+  # animated text loop
+  occupations:
+    - "人机交互"
+    - "计算思维"
+    - "设计思维"
+    - "开源技术"
+
+  # slider background image loop
+  slider_image:
+    # - "images/slider/slider-1.jpg"
+    # - "images/slider/slider-2.jpg"
+    # - "images/slider/slider-3.jpg"
+
+  # button
+  button:
+    enable : true
+    label : "联系我们"
+    link : "#contact"
+
+
+####################### Full screen navigation #####################
+fullscreen_nav:
+  enable : true
+  bg_image : "images/backgrounds/full-nav-bg.jpg"
+  first_name : "西南交通大学信息科学与技术学院"
+  last_name : "代码与实物实验室"
+
+
+########################### About ##################################
+about:
+  enable : true
+  image : "images/backgrounds/codes2things2017.jpg"
+  title : "实验室简介"
+  content : "代码与实物实验室（English：Codes & Things Lab）是由从西南交通大学“代码到实物：造你所想”跨学科通识课迭代发展而来的一个实验室。涉及领域有：可视化、数据、交互、网络、计算、设计、开源、linux、电子、3d打印、cnc等。"
+  # button
+  button:
+    enable : false
+    label : "DOWNLOAD MY CV"
+    link : "#" # you can put your cv in static folder and give the path here.
+
+###########################3 History ##############################
+experience:
+  enable : true
+  title : "History"
+  experience_list:
+    # experience item loop
+    - name : "Codes & Things Lab"
+      company : ""
+      duration : "2020"
+      content : "研究与课程有关的人机交互、编程语言、开源硬件、3D打印、CNC等有关的领域"
+
+    # experience item loop
+    - name : "Codes to Things:Making what you thinking"
+      company : ""
+      duration : "2016-2020"
+      content : "一个全栈硬核创客课程。"
+
+    # experience item loop
+    - name : "交大创客空间"
+      company : ""
+      duration : "2013-2020"
+      content : "中国最早一批大学创客空间，教育部首批中美青年创客交流中心。"
+
+
+############################### Skill #################################
+skill:
+  enable : false
+  title : "SKILL"
+  skill_list:
+    # skill item loop
+    - name : "Web Development"
+      parcentage : "98%"
+
+    # skill item loop
+    - name : "Graphic Design"
+      parcentage : "85%"
+
+    # skill item loop
+    - name : "Database Management"
+      parcentage : "90%"
+
+    # skill item loop
+    - name : "Wordpress"
+      parcentage : "70%"
+
+
+################################### Service ##############################3
+service:
+  enable : false
+  title : "服务"
+  service_list:
+    # service item loop
+    - name : "Web Development"
+      image : "images/icons/web-development.png"
+
+    # service item loop
+    - name : "Graphic Design"
+      image : "images/icons/graphic-design.png"
+
+    # service item loop
+    - name : "Database Management"
+      image : "images/icons/dbms.png"
+
+    # service item loop
+    - name : "Software Development"
+      image : "images/icons/software-development.png"
+
+    # service item loop
+    - name : "Digital Marketing"
+      image : "images/icons/marketing.png"
+
+    # service item loop
+    - name : "Mobile App Development"
+      image : "images/icons/mobile-app.png"
+
+
+############################## call to action #########################
+call_to_action:
+  enable : false
+  bg_image : "images/backgrounds/need-service.jpg"
+  title : "NEED A SERVICE?"
+  button:
+    enable : true
+    label : "SAY HELLO!"
+    link : "#contact"
+
+
+############################# portfolio ################################
+portfolio:
+  enable : false
+  title : "项目"
+  portfolio_list:
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item1.jpg"
+      date : "Feb 2018"
+      category : "Web Development"
+
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item2.jpg"
+      date : "Feb 2018"
+      category : "Web Development"
+
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item3.jpg"
+      date : "Feb 2018"
+      category : "Web Development"
+
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item4.jpg"
+      date : "Feb 2018"
+      category : "Web Development"
+
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item5.jpg"
+      date : "Feb 2018"
+      category : "Web Development"
+
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item6.jpg"
+      date : "Feb 2018"
+      category : "Web Development"
+
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item7.jpg"
+      date : "Feb 2018"
+      category : "Graphics"
+
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item8.jpg"
+      date : "Feb 2018"
+      category : "Graphics"
+
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item9.jpg"
+      date : "Feb 2018"
+      category : "Database"
+
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item10.jpg"
+      date : "Feb 2018"
+      category : "Database"
+
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item11.jpg"
+      date : "Feb 2018"
+      category : "Database"
+
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item12.jpg"
+      date : "Feb 2018"
+      category : "Graphics"
+
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item13.jpg"
+      date : "Feb 2018"
+      category : "Graphics"
+
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item14.jpg"
+      date : "Feb 2018"
+      category : "Graphics"
+
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item15.jpg"
+      date : "Feb 2018"
+      category : "Graphics"
+
+
+################################# Testimonial #########################33
+testimonial:
+  enable : true
+  title : "Team"
+  testimonial_slider:
+    # slider item loop
+    - name : "Micheal Clark"
+      image : "images/clients/client1.jpg"
+      designation : "CEO, RANDOM COMPANY"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad,
+                omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
+
+    # slider item loop
+    - name : "Peter Parker"
+      image : "images/clients/client2.jpg"
+      designation : "CEO, RANDOM COMPANY"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad,
+                omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
+
+    # slider item loop
+    - name : "Jessica Jones"
+      image : "images/clients/client3.jpg"
+      designation : "CEO, RANDOM COMPANY"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad,
+                omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
+
+
+######################### funfacts #############################3
+funfacts:
+  enable : false
+  funfacts_list:
+    # funfacts item loop
+    - name : "HANDS TO WORK"
+      image : "images/icons/works.png"
+      count : "100"
+
+    # funfacts item loop
+    - name : "HAPPY CLIENT"
+      image : "images/icons/happy.png"
+      count : "200"
+
+    # funfacts item loop
+    - name : "FINISHED PROJECT"
+      image : "images/icons/project.png"
+      count : "250"
+
+    # funfacts item loop
+    - name : "CUPS OF COFFEE"
+      image : "images/icons/coffee.png"
+      count : "150"
+
+
+############################## contact ###########################
+contact:
+  enable : true
+  title : "SAY HELLO!"
