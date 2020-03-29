@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = "https://swjtu-maker.github.io/Codes-and-Things-LAB/"
 title = "西南交通大学代码与实物实验室"
 theme = "somrat"
 publishDir = "../docs"
