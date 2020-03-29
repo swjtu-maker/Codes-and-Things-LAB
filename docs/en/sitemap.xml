@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://examplesite.com/categories/</loc>
+    <loc>https://swjtu-maker.github.io/Codes-and-Things-LAB/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://examplesite.com/cn/categories/"
+                href="https://swjtu-maker.github.io/Codes-and-Things-LAB/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/categories/"
+                href="https://swjtu-maker.github.io/Codes-and-Things-LAB/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://examplesite.com/tags/</loc>
+    <loc>https://swjtu-maker.github.io/Codes-and-Things-LAB/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://examplesite.com/cn/tags/"
+                href="https://swjtu-maker.github.io/Codes-and-Things-LAB/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/tags/"
+                href="https://swjtu-maker.github.io/Codes-and-Things-LAB/en/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://examplesite.com/</loc>
+    <loc>https://swjtu-maker.github.io/Codes-and-Things-LAB/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://examplesite.com/cn/"
+                href="https://swjtu-maker.github.io/Codes-and-Things-LAB/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/"
+                href="https://swjtu-maker.github.io/Codes-and-Things-LAB/en/"
                 />
   </url>
   

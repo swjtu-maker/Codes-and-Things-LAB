@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 西南交通大学代码与实物实验室</title>
-    <link>https://swjtu-maker.github.io/Codes-and-Things-LAB/categories/</link>
+    <link>https://swjtu-maker.github.io/Codes-and-Things-LAB/en/categories/</link>
     <description>Recent content in Categories on 西南交通大学代码与实物实验室</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
+    <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 Codes &amp; Things Lab</copyright>
     
-	<atom:link href="https://swjtu-maker.github.io/Codes-and-Things-LAB/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://swjtu-maker.github.io/Codes-and-Things-LAB/en/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
